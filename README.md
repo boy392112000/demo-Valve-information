@@ -24,7 +24,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1i1Iwy5ZXAEmmD1BOjs8z26
      cp .env.example .env.local
      ```
    - Edit `.env.local` and set your `GEMINI_API_KEY`
-   - Get your API key from: https://makersuite.google.com/app/apikey
+   - Get your API key from: https://aistudio.google.com/app/apikey
 
 3. Run the app:
    ```bash
